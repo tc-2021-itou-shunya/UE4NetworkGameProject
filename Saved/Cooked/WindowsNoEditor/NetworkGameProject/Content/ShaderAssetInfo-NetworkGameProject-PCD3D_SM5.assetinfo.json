@@ -52,12 +52,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -67,6 +61,12 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -263,52 +263,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
 			"Assets": [
 				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
 			]
 		},
 		{
@@ -552,30 +509,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
-			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
 			"Assets": [
 				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
@@ -588,27 +521,70 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ECF211909B951137D59C1A4B4AC46570D95B1FC7",
+			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
 			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "F149164436465E20E7F626109FB5766FA03745F2",
+			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
 			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "B1792DD387C7D34880F6DCA4465C5BEDF6D36971",
+			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
 			"Assets": [
-				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FCAC9CD95037A5AD3304161E9E9FFB366B34A74F",
+			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
 			"Assets": [
-				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
 			]
 		},
 		{
@@ -640,6 +616,30 @@
 			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
 			"Assets": [
 				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ECF211909B951137D59C1A4B4AC46570D95B1FC7",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F149164436465E20E7F626109FB5766FA03745F2",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1792DD387C7D34880F6DCA4465C5BEDF6D36971",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCAC9CD95037A5AD3304161E9E9FFB366B34A74F",
+			"Assets": [
+				"../../../../../ttc2021-2022/2022/UE4NetworkGameProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
 			]
 		},
 		{
