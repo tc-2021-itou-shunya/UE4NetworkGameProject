@@ -1,0 +1,23 @@
+
+	参考資料URL
+
+		・UE4
+			UE4入門
+				- https://historia.co.jp/archives/18646/
+
+			マルチプレイヤー
+				- https://docs.unrealengine.com/4.27/ja/InteractiveExperiences/Networking/QuickStart/
+
+			パッケージ化
+				- https://qiita.com/O_Y_G/items/8bc60efe54f9aefafd38
+
+			UI
+				- https://docs.unrealengine.com/4.27/ja/InteractiveExperiences/UMG/HowTo/CreatingWidgets/
+
+
+		・Blender
+			キャラクター作成 ( インポートなど )
+				- https://japanese-rooster.com/game-16
+
+
+
