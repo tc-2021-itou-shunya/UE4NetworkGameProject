@@ -959,3 +959,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.02-03.09.11:755][224]LogHttp: Warning: 000001EA626BB900: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2022.12.02-03.09.11:755][224]LogHttp: Warning: 000001EA626BB900: libcurl info message cache 7 (Closing connection 0)
 [2022.12.02-03.09.11:755][224]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C186E5-4D9E-7596-148D-F6B9667A7FC1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=450d9d624c3e048383908ab22cec1a97%7Cc5e292ad138540ee957cc1a0bf167c5f%7Ce7d3d28c-65fd-49bc-aa5e-72ae6ceea599&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.12.02-03.34.04:606][307]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.02-03.34.04:652][307]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-03.34.04:652][307]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-03.34.04:652][307]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.02-03.34.04:652][307]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.02-03.34.04:653][307]LogAudioMixer: Display: 4: BackLeft
+[2022.12.02-03.34.04:653][307]LogAudioMixer: Display: 5: BackRight
+[2022.12.02-03.34.04:653][307]LogAudioMixer: Display: 6: SideLeft
+[2022.12.02-03.34.04:653][307]LogAudioMixer: Display: 7: SideRight
+[2022.12.02-03.39.50:845][314]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.02-03.39.51:067][314]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-03.39.51:067][314]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-03.39.51:067][314]LogAudioMixer: Display: 2: FrontCenter
+[2022.12.02-03.39.51:068][314]LogAudioMixer: Display: 3: LowFrequency
+[2022.12.02-03.39.51:068][314]LogAudioMixer: Display: 4: BackLeft
+[2022.12.02-03.39.51:068][314]LogAudioMixer: Display: 5: BackRight
+[2022.12.02-03.39.51:068][314]LogAudioMixer: Display: 6: SideLeft
+[2022.12.02-03.39.51:068][314]LogAudioMixer: Display: 7: SideRight
+[2022.12.02-03.39.52:188][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.12.02-03.39.52:475][315]LogHttp: Warning: 000001EA6FAC1D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C186E5-4D9E-7596-148D-F6B9667A7FC1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=450d9d624c3e048383908ab22cec1a97%7Cc5e292ad138540ee957cc1a0bf167c5f%7Ce7d3d28c-65fd-49bc-aa5e-72ae6ceea599&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.12.02-03.39.52:475][315]LogHttp: Warning: 000001EA6FAC1D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ea01643940 [can pipeline])
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.214.129) port 443 (#1))
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.12.02-03.39.52:476][315]LogHttp: Warning: 000001EA6FAC1D00: libcurl info message cache 7 (Closing connection 1)
+[2022.12.02-03.39.52:505][316]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C186E5-4D9E-7596-148D-F6B9667A7FC1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=450d9d624c3e048383908ab22cec1a97%7Cc5e292ad138540ee957cc1a0bf167c5f%7Ce7d3d28c-65fd-49bc-aa5e-72ae6ceea599&AppEnvironment=datacollector-binary&UploadType=eteventstream
