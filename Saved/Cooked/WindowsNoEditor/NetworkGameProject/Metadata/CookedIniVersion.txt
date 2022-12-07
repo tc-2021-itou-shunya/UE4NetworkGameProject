@@ -1482,7 +1482,7 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaul
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/ttc2021-2022/2022/UE4NetworkGameProject")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/school/卒業制作/UE4NetworkGameProject")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
