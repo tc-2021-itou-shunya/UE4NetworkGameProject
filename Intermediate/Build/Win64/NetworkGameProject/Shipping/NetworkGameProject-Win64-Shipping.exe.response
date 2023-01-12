@@ -276,8 +276,8 @@
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Shipping\WebMMedia\Module.WebMMedia.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Shipping\WebMMediaFactory\WebMMediaFactoryModule.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\UE4\Shipping\WindowsMoviePlayer\Module.WindowsMoviePlayer.cpp.obj"
-"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
-"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\NetworkGameProject.cpp.obj"
+"C:\school\3DGame\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
+"C:\school\3DGame\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\NetworkGameProject.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Shipping\BuildSettings\BuildSettings.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Shipping\TraceLog\Module.TraceLog.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Shipping\Core\PCH.Core.h.obj"
@@ -844,7 +844,7 @@
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Shipping\AudioCaptureRtAudio\Module.AudioCaptureRtAudio.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Shipping\AudioAnalyzer\Module.AudioAnalyzer.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Shipping\AudioAnalyzer\Module.AudioAnalyzer.gen.cpp.obj"
-"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Default.rc2.res"
+"C:\school\3DGame\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Default.rc2.res"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015\PhysX3_x64.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015\PhysX3Extensions_x64.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015\PhysX3Cooking_x64.lib"
@@ -947,8 +947,8 @@
 "DXGI.lib"
 "d3d11.lib"
 "legacy_stdio_definitions.lib"
-/OUT:"C:\school\卒業制作\UE4NetworkGameProject\Binaries\Win64\NetworkGameProject-Win64-Shipping.exe"
-/PDB:"C:\school\卒業制作\UE4NetworkGameProject\Binaries\Win64\NetworkGameProject-Win64-Shipping.pdb"
+/OUT:"C:\school\3DGame\UE4NetworkGameProject\Binaries\Win64\NetworkGameProject-Win64-Shipping.exe"
+/PDB:"C:\school\3DGame\UE4NetworkGameProject\Binaries\Win64\NetworkGameProject-Win64-Shipping.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_TargetSystem
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
