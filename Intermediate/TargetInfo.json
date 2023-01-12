@@ -1,0 +1,9 @@
+{
+	"Targets": [
+		{
+			"Name": "NetworkGameProject",
+			"Path": "C:\\school\\卒業制作\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
