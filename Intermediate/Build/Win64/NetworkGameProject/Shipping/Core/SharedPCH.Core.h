@@ -1,4 +1,4 @@
-// PCH for D:\game\UE_4.26\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
+// PCH for C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -34,7 +34,7 @@
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UE4"
-#define UE_ENGINE_DIRECTORY "../../../../../game/UE_4.26/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../Program Files/Epic Games/UE_4.26/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -56,4 +56,4 @@
 #define WITH_MALLOC_STOMP 0
 #define CORE_API 
 #define TRACELOG_API 
-#include "D:/game/UE_4.26/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h"
+#include "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h"
