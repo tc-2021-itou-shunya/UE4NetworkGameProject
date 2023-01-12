@@ -11040,6 +11040,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.12-06.40.00:323][406]UATHelper: パッケージ化 (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
 [2023.01.12-06.40.02:777][642]LogSlate: Window 'アウトプットログ' being destroyed
 [2023.01.12-06.40.02:789][642]LogSlate: Window 'アウトプットログ' being destroyed
+<<<<<<< HEAD
 [2023.01.12-07.03.15:015][ 46]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2023.01.12-07.29.02:130][983]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
 [2023.01.12-07.29.02:164][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
@@ -13325,3 +13326,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.12-07.55.19:130][564]Log file closed, 01/12/23 16:55:19
 >>>>>>> main
 >>>>>>> sugino_kenshin
+=======
+>>>>>>> parent of b1dd5c0 (01/12 更新)
