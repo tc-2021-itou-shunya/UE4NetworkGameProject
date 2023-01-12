@@ -36,11 +36,27 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+<<<<<<< HEAD
 /I C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core
 /Yc"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
 /Fp"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
 "C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.cpp"
 /Fo"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
+=======
+<<<<<<< HEAD
+/I C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core
+/Yc"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.cpp"
+/Fo"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
+=======
+/I D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core
+/Yc"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Fp"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
+"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.cpp"
+/Fo"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
+>>>>>>> main
+>>>>>>> sugino_kenshin
 /TP
 /GR-
 /W4

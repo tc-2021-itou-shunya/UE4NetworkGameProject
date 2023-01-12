@@ -72,20 +72,49 @@
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Detail
 /I Runtime\TraceLog\Public\Trace\Detail\Protocols
+<<<<<<< HEAD
 /I C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate
 /I C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Source
+=======
+<<<<<<< HEAD
+/I C:\school\卒業制作\UE4NetworkGameProject\Intermediate
+/I C:\school\卒業制作\UE4NetworkGameProject\Source
+/I C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Source
+=======
+/I D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate
+/I D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Source
+>>>>>>> main
+>>>>>>> sugino_kenshin
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+<<<<<<< HEAD
 /FI"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
 /Yu"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
 /Fp"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
 "C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Source\NetworkGameProject.cpp"
 /FI"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\Definitions.NetworkGameProject.h"
 /Fo"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\NetworkGameProject.cpp.obj"
+=======
+<<<<<<< HEAD
+/FI"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Yu"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Source\NetworkGameProject.cpp"
+/FI"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\Definitions.NetworkGameProject.h"
+/Fo"C:\school\卒業制作\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\NetworkGameProject.cpp.obj"
+=======
+/FI"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Yu"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Fp"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
+"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Source\NetworkGameProject.cpp"
+/FI"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\Definitions.NetworkGameProject.h"
+/Fo"D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\NetworkGameProject.cpp.obj"
+>>>>>>> main
+>>>>>>> sugino_kenshin
 /TP
 /GR-
 /W4

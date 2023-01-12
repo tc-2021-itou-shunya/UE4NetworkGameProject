@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 C:/school/2nen_graduation/UE4NetworkGameProject/Intermediate/Build/Win64/NetworkGameProject/Shipping/Core/SharedPCH.Core.h
+=======
+C:/school/3DGame/UE4NetworkGameProject/Intermediate/Build/Win64/NetworkGameProject/Shipping/Core/SharedPCH.Core.h
+>>>>>>> sugino_kenshin
 C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\CoreTypes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h

@@ -1,7 +1,17 @@
 {
 	"SourceFiles": [
+<<<<<<< HEAD
 		"C:\\school\\2nen_graduation\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Build.cs",
 		"C:\\school\\2nen_graduation\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Target.cs"
+=======
+<<<<<<< HEAD
+		"C:\\school\\3DGame\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Build.cs",
+		"C:\\school\\3DGame\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Target.cs"
+=======
+		"C:\\school\\2年生卒業制作3\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Build.cs",
+		"C:\\school\\2年生卒業制作3\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Target.cs"
+>>>>>>> main
+>>>>>>> sugino_kenshin
 	],
 	"EngineVersion": "4.26.2"
 }
