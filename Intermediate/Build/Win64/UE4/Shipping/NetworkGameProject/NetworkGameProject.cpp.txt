@@ -1,1 +1,1 @@
-D:\ttc2021-2022\2022\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\Definitions.NetworkGameProject.h
+C:\school\2nen_graduation\UE4NetworkGameProject\Intermediate\Build\Win64\UE4\Shipping\NetworkGameProject\Definitions.NetworkGameProject.h

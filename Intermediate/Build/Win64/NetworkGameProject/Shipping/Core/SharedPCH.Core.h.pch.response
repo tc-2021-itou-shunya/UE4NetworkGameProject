@@ -36,11 +36,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/I C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core
-/Yc"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
-/Fp"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
-"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.cpp"
-/Fo"C:\school\2年生卒業制作3\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
+/I C:\school\2nen_graduation\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core
+/Yc"C:\school\2nen_graduation\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\school\2nen_graduation\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\school\2nen_graduation\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.cpp"
+/Fo"C:\school\2nen_graduation\UE4NetworkGameProject\Intermediate\Build\Win64\NetworkGameProject\Shipping\Core\SharedPCH.Core.h.obj"
 /TP
 /GR-
 /W4
