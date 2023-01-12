@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
-		"D:\\ttc2021-2022\\2022\\UE4NetworkGameProject\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs"
+		"D:\\ttc2021-2022\\2022\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Build.cs",
+		"D:\\ttc2021-2022\\2022\\UE4NetworkGameProject\\Intermediate\\Source\\NetworkGameProject.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
